@@ -4,5 +4,4 @@ Image recognition using Deep Neural Networks
 
 ### Data
 
-images taken with webcam using this code:
-https://github.com/bonartm/imageclassifier
+training data and test images taken with webcam based on https://github.com/bonartm/imageclassifier
